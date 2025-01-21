@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:810274010840:android:986fca95a4450be29809ad",
+        "mobilesdk_app_id": "1:810274010840:android:986fca95a4450be29",
         "android_client_info": {
           "package_name": "com.example.taskmanager"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCS1ahKAdP5OeLkoG4Wk80spyHggXH4AWQ"
+          "current_key": "Your Api Key"
         }
       ],
       "services": {
